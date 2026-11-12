@@ -15,4 +15,5 @@
 4. اضغط Run
 
 ## لقطات الشاشة
-(![home.png](home.png))
+
+![الشاشة الرئيسية](docs/screenshots/home.png)
