@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PocketMarker"
+rootProject.name = "PocketMarket"
 include(":app")
  
