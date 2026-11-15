@@ -1,4 +1,4 @@
-package com.ahmad.pocketmarker
+package com.ahmad.pocketmarket
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.ahmad.pocketmarker", appContext.packageName)
+        assertEquals("com.ahmad.pocketmarket", appContext.packageName)
     }
 }

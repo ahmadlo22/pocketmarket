@@ -1,4 +1,4 @@
-package com.ahmad.pocketmarker
+package com.ahmad.pocketmarket
 
 import org.junit.Test
 

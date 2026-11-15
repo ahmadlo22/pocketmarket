@@ -1,4 +1,4 @@
-package com.ahmad.pocketmarker.domain
+package com.ahmad.pocketmarket.domain
 
 enum class ThemeModel{SYSTEM,LIGHT,DARK}
 enum class CatalogLayout{LIST,GRID}

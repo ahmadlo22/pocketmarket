@@ -1,6 +1,6 @@
-package com.ahmad.pocketmarker.domain.model
+package com.ahmad.pocketmarket.domain.model
 
-import com.ahmad.pocketmarker.domain.fixtures.ProductFixtures
+import com.ahmad.pocketmarket.domain.fixtures.ProductFixtures
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Test

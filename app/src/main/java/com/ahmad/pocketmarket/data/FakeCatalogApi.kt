@@ -1,8 +1,8 @@
-package com.ahmad.pocketmarker.data
+package com.ahmad.pocketmarket.data
 
-import com.ahmad.pocketmarker.domain.fixtures.ProductFixtures
-import com.ahmad.pocketmarker.domain.model.Category
-import com.ahmad.pocketmarker.domain.model.Product
+import com.ahmad.pocketmarket.domain.fixtures.ProductFixtures
+import com.ahmad.pocketmarket.domain.model.Category
+import com.ahmad.pocketmarket.domain.model.Product
 import kotlinx.coroutines.delay
 import java.io.IOException
 

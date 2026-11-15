@@ -1,9 +1,9 @@
-package com.ahmad.pocketmarker.data
+package com.ahmad.pocketmarket.data
 
-import com.ahmad.pocketmarker.domain.model.AppError
-import com.ahmad.pocketmarker.domain.model.AppResult
-import com.ahmad.pocketmarker.domain.model.Category
-import com.ahmad.pocketmarker.domain.model.Product
+import com.ahmad.pocketmarket.domain.model.AppError
+import com.ahmad.pocketmarket.domain.model.AppResult
+import com.ahmad.pocketmarket.domain.model.Category
+import com.ahmad.pocketmarket.domain.model.Product
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.async

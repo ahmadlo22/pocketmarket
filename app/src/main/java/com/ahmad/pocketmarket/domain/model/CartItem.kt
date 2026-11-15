@@ -1,4 +1,4 @@
-package com.ahmad.pocketmarker.domain.model
+package com.ahmad.pocketmarket.domain.model
 
 data class CartItem(val product: Product,val quantity: Int){
     init {

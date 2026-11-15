@@ -1,7 +1,7 @@
 
-package com.ahmad.pocketmarker.data
+package com.ahmad.pocketmarket.data
 
-import com.ahmad.pocketmarker.domain.model.AppResult
+import com.ahmad.pocketmarket.domain.model.AppResult
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.cancelAndJoin
 import kotlinx.coroutines.launch

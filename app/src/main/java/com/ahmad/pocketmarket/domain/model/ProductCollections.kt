@@ -1,4 +1,4 @@
-package com.ahmad.pocketmarker.domain.model
+package com.ahmad.pocketmarket.domain.model
 
 enum class SortOption{PRICE_ASC,PRICE_DEC,RATING,TITLE}
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PocketMarker</string>
+    <string name="app_name">PocketMarket</string>
 
     <string name="action_retry">Retry</string>
     <string name="state_loading">Loading</string>

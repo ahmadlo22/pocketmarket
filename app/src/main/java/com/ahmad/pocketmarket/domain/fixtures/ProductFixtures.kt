@@ -1,7 +1,7 @@
-package com.ahmad.pocketmarker.domain.fixtures
+package com.ahmad.pocketmarket.domain.fixtures
 
-import com.ahmad.pocketmarker.domain.model.Category
-import com.ahmad.pocketmarker.domain.model.Product
+import com.ahmad.pocketmarket.domain.model.Category
+import com.ahmad.pocketmarket.domain.model.Product
     object ProductFixtures {
         val categories = listOf(
             Category("smartphones", "SmartPhones"),

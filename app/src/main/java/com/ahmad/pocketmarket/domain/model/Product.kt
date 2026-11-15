@@ -1,6 +1,4 @@
-package com.ahmad.pocketmarker.domain.model
-
-import android.icu.text.CaseMap
+package com.ahmad.pocketmarket.domain.model
 
 data class Category(val slug:String, val name:String)
 
