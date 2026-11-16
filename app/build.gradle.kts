@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.ahmad.pocketmarker"
+    namespace = "com.ahmad.pocketmarket"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.ahmad.pocketmarker"
+        applicationId = "com.ahmad.pocketmarket"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
@@ -55,5 +55,6 @@ dependencies {
     implementation(libs.kotlinx.coroutines.core)
     testImplementation(libs.kotlinx.coroutines.test)
     testImplementation(kotlin("test"))
+    implementation(libs.androidx.compose.material.icons.core)
 
 }

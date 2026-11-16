@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketMarket</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="state_loading">جارٍ التحميل</string>
+    <string name="state_error_title">حدث خطأ ما</string>
+    <string name="state_error_message">تحقق من الاتصال وحاول مرة أخرى.</string>
+    <string name="state_empty_title">لا يوجد شيء هنا بعد</string>
+    <string name="state_empty_message">لا توجد منتجات مطابقة لبحثك.</string>
+    <string name="search_hint">ابحث عن منتجات</string>
+    <string name="field_clear">مسح النص</string>
+    <string name="chip_selected">محدد</string>
+    <string name="chip_not_selected">غير محدد</string>
+    <string name="price_format">%1$s ر.س</string>
+    <string name="product_rating">التقييم %1$s من 5</string>
+    <string name="product_out_of_stock">نفد من المخزون</string>
+    <string name="catalog_section_buttons">الأزرار</string>
+    <string name="catalog_section_fields">حقول النص</string>
+    <string name="catalog_section_chips">الشرائح</string>
+    <string name="catalog_section_cards">البطاقات</string>
+    <string name="catalog_section_states">الحالات</string>
+    <string name="demo_primary">أساسي</string>
+    <string name="demo_secondary">ثانوي</string>
+    <string name="demo_disabled">معطّل</string>
+    <string name="demo_phones">هواتف</string>
+    <string name="demo_laptops">حواسيب</string>
+    <string name="demo_field_error">أدخل 3 أحرف على الأقل</string>
+</resources>

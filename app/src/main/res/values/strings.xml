@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">PocketMarker</string>
+    <string name="app_name">PocketMarket</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="state_loading">Loading</string>
+    <string name="state_error_title">Something went wrong</string>
+    <string name="state_error_message">Check your connection and try again.</string>
+    <string name="state_empty_title">Nothing here yet</string>
+    <string name="state_empty_message">No products match your search.</string>
+    <string name="search_hint">Search products</string>
+    <string name="field_clear">Clear text</string>
+    <string name="chip_selected">Selected</string>
+    <string name="chip_not_selected">Not selected</string>
+    <string name="price_format">%1$s SAR</string>
+    <string name="product_rating">Rated %1$s out of 5</string>
+    <string name="product_out_of_stock">Out of stock</string>
+    <string name="catalog_section_buttons">Buttons</string>
+    <string name="catalog_section_fields">Text fields</string>
+    <string name="catalog_section_chips">Chips</string>
+    <string name="catalog_section_cards">Cards</string>
+    <string name="catalog_section_states">States</string>
+    <string name="demo_primary">Primary</string>
+    <string name="demo_secondary">Secondary</string>
+    <string name="demo_disabled">Disabled</string>
+    <string name="demo_phones">Phones</string>
+    <string name="demo_laptops">Laptops</string>
+    <string name="demo_field_error">Enter at least 3 characters</string>
 </resources>
