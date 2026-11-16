@@ -9,7 +9,7 @@
 - Android SDK (API 24 أو أعلى)
 
 ## التشغيل
-1. `git clone https://github.com/ahmadlo22/pocketmarket`
+1. `git clone https://github.com/ahmadlo22/pocketmarket.git`
 2. افتح المجلد في Android Studio
 3. انتظر Gradle sync
 4. اضغط Run
@@ -17,3 +17,8 @@
 ## لقطات الشاشة
 
 ![الشاشة الرئيسية](docs/screenshots/home.png)
+
+## Design System
+
+![Light](docs/screenshots/design-system-light.png)
+![Dark](docs/screenshots/design-system-dark.png)
